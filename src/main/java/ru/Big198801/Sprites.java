@@ -6,7 +6,7 @@ public  enum Sprites {
     STONE ("⛰\uFE0F"),
     GRASS ("\uD83C\uDF3F"),
     GROUND ("."),
-    THREE("\uD83C\uDF34");
+    TREE("\uD83C\uDF34");
     private final String sprite;
     Sprites(String sprite){
         this.sprite = sprite;
